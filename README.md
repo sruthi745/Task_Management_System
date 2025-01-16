@@ -1,9 +1,6 @@
-# TaskManagementApp
+Description
 
-## Requirements
-install Django
-install Rest Framework
-install PostgreSQL dependencies
+- Developed a user-friendly interface using HTML, CSS, and JavaScript, ensuring accessibility and a seamless user experience across various devices, with responsiveness enhanced through Bootstrap.
+- Utilized Django to build a robust backend, incorporating secure user authentication and role-based access control to safeguard user data and restrict functionalities based on user roles and using PostgreSQL for database management and efficient storage.
+- Implemented a progress tracking system and advanced report generation features within the dashboard, enabling teams to effectively monitor task completion, deadlines, and overall project performance.
 
-## Steps
-Clone the repository. Change the settings.py file for local database, configure it according to your own local host database. Migrate the changes so that database changes can be applied. Run the django server.
